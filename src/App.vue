@@ -88,6 +88,12 @@ h2 {
   font-size: 2rem;
 }
 
+main {
+  max-width: 1420px;
+  margin: 0 auto;
+  min-height: 100vh;
+}
+
 .active {
   border-top: 2px solid var(--color-secondary);
 }

@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cities-images/zagora.jpg"
   },
   {
-    "revision": "8f70a4d9989f13266c06",
-    "url": "/css/app.415f93e3.css"
+    "revision": "6b848ff06306a81ff6ee",
+    "url": "/css/app.249c4e6d.css"
   },
   {
     "revision": "303de46715f6490bc719",
@@ -128,12 +128,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/sprite.da46009f.svg"
   },
   {
-    "revision": "5ec802b96e825cec6f11b75756ed4cc6",
+    "revision": "e62f016cccbd3e61f9df6e1f2e9a4db6",
     "url": "/index.html"
   },
   {
-    "revision": "8f70a4d9989f13266c06",
-    "url": "/js/app.5e992887.js"
+    "revision": "6b848ff06306a81ff6ee",
+    "url": "/js/app.b7f1268c.js"
   },
   {
     "revision": "303de46715f6490bc719",

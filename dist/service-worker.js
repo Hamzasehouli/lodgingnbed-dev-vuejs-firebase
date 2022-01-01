@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.bf2c64b96181d29a12edaa9bc7866d97.js"
+  "/precache-manifest.0d9d6977b314e66b8e0625b6a0492f1f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "lodgingnbed"});
